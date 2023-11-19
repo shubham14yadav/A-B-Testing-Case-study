@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive analysis of the Vungle A/B testing case study. Utilizing the MD5 hashing algorithm, we explore the effectiveness of two different ad-serving algorithms, A and B, in the context of mobile advertising. The analysis is centered on various metrics such as eRPM (effective revenue per 1,000 impressions), conversion rates, and overall performance efficiency.
 
-Key Components:
+<b>Key Components:</b><br>
 <b>User Assignment</b>: We examine how users were distributed between Algorithms A and B, with a focus on the 15/16 to 1/16 proportion established via MD5 hashing.<br>
 <br>
 <b>Effectiveness Metrics</b>: The primary metric used for assessing the campaign's success is eRPM, offering insights into the revenue generation capabilities of each algorithm.<br>
